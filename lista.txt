@@ -3,5 +3,6 @@ Preciso comprar:
 maça
 banana
 abacaxi
+goiaba
 
-Essa é minha klista de compras.
+Essa é minha lista de compras.
